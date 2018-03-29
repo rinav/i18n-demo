@@ -1,0 +1,14 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "localization demo",
+  "main": "index.js",
+  "author": "Rinav Gangar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "http": "^0.0.0",
+    "i18n": "^0.8.3",
+    "url": "^0.11.0"
+  }
+}

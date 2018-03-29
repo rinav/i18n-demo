@@ -44,6 +44,7 @@ var getBody = function (req, res) {
 
   console.log(query);
 
+  console.log(i18n.__h('Hello World'));
   body += res.__('Hello') + '</br> current locale is: ' + query.lang;
   body += '</h3><p>' + res.__('Hello World') + ' </p>';
   body += '</body></html>';
